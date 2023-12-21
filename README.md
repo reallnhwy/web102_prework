@@ -19,23 +19,15 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-
-<img src='https://imgur.com/lJrdYXn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+https://www.loom.com/share/01575d72ab114dee995bcc3e4644e605?sid=f0411a0c-6667-4393-865f-d733515997d8
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It's been quite a while since the last time I did any web project, so I constantly need refreshment. However, the instructions in the prework are quite clear, and I learned a lot along the way.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ngoc Nhu Y Banh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
